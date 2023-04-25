@@ -6,7 +6,7 @@
   "scripts": {
     "develop": "strapi develop",
     "cs": "config-sync",
-    "start": "strapi develop --watch-admin",
+    "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
   },
