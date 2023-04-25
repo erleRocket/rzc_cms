@@ -5,6 +5,7 @@
   "description": "A Strapi application",
   "scripts": {
     "develop": "strapi develop",
+    "cs": "config-sync",
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
@@ -17,6 +18,7 @@
     "@strapi/plugin-users-permissions": "4.9.2",
     "@strapi/strapi": "4.9.2",
     "pg": "8.8.0",
+    "strapi-plugin-config-sync": "^1.1.1",
     "strapi-plugin-entity-relationship-chart": "^4.1.0",
     "strapi-plugin-local-image-sharp": "^1.6.0",
     "strapi-plugin-navigation": "^2.2.7",
