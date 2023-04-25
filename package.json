@@ -17,7 +17,6 @@
     "@strapi/plugin-users-permissions": "4.9.2",
     "@strapi/strapi": "4.9.2",
     "pg": "8.8.0",
-    "strapi-chatgpt": "^1.0.2",
     "strapi-plugin-entity-relationship-chart": "^4.1.0",
     "strapi-plugin-local-image-sharp": "^1.6.0",
     "strapi-plugin-navigation": "^2.2.7",
